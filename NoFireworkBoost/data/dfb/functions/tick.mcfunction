@@ -1,0 +1,1 @@
+execute as @a at @s if entity @e[type=minecraft:firework_rocket,distance=..1] run kill @e[type=minecraft:firework_rocket,distance=..1]
